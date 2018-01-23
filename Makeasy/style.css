@@ -1,0 +1,116 @@
+
+
+.background2 {background-color: pink}
+
+#banner {
+	background-size: auto;
+}
+
+#title2 {margin: 0;
+}
+
+ 
+h1 {
+	color: #fff;
+	text-shadow: 2px 2px #000;
+	font-size: 60px;
+	margin: 10px;
+	font-family: 'Karla', sans-serif;
+	margin-top: 50px;
+	text-align: center;
+	margin-bottom: 100px;
+
+}
+
+#keywords {
+	margin-top: 50px;
+	text-align: center;
+}
+
+
+h2 {
+	color: #fff;
+	text-shadow: 2px 2px #000;
+	font-family: 'Karla', sans-serif;
+	font-size: 35px;
+
+}
+
+#complet {margin-top: 12px}
+
+h3 {
+	color: #fff;
+	text-shadow: 1px 1px #000;
+	font-size: 25px;
+	margin: 10px;
+	font-family: 'Karla', sans-serif;
+	margin-bottom: 5px;
+	margin-top: 50px;
+	text-align: center;
+	
+}
+
+#logo {
+		width: 800px;
+		margin: 70px;
+		display: inline-block;
+
+}
+
+#logo-noir {
+	width: 150px;
+}
+
+#mc_embed_signup input.email {
+	width: 400px;
+	height: 50px;
+
+}
+
+#mc-embedded-subscribe {
+	background-color: pink;
+	width: 100px;
+	height: 50px;
+
+}
+
+#mc_embed_signup form {
+	margin: 50px;
+}
+
+
+#logo-div {
+	text-align: center;
+}
+
+
+
+.image-background {
+ background-image: url('background.jpg');
+ background-attachment: fixed;
+ background-repeat:no-repeat;
+ background-size: cover;
+ background-position:center center;
+
+ 
+}
+
+.opaque {
+	background-color: rgba(20, 20, 20, 0.45);
+
+}
+
+#title2 {margin: 0
+}
+
+h4 {
+	color: #fff;
+	font-family: 'Karla', sans-serif;
+	
+}
+
+
+
+
+
+
